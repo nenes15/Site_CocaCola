@@ -1,0 +1,90 @@
+.text-left{
+    margin-top: 20px;
+}
+.fas{
+    margin-left: 5px;
+}
+.recherche{
+    color: black;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.text{
+    width: 230px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 1px solid #d4d9df;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.button1{
+    width: 230px;
+    height: 40px;
+    margin-left: 12px;
+    margin-bottom: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #28a745;
+    border: 1px solid #d4d9df;
+}
+.card-header{
+    color: #ff6347;
+}
+.fas{
+    margin-right: 5px;
+}
+.button {
+    background-color: rgb(188, 143, 143);
+    border: 1px solid rgb(81, 47, 139);
+    cursor: pointer;
+    border-radius: 7px;
+    width: 210px;
+    height: 45px;
+}
+.recette{
+    color: black;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.fichier{
+    border: 1px solid #d4d9df;
+    width: 225px; 
+    height: 34px;
+    text-align: right;
+    font-size: 14px;
+    position: relative;
+    
+}
+.button2{
+    font-size: 11px;
+    height: 32px;
+    background-color: #e6e6e6;
+    float: left;
+}
+.button3{
+    width: 225px;
+    height: 40px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #007bff;
+    border: 1px solid #d4d9df;
+}
+.commentaire{
+    color: black;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.button4{
+    width: 225px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #007bff;
+    border: 1px solid #d4d9df;
+}
